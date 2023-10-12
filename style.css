@@ -1,0 +1,76 @@
+*{
+ font-family: 'Open Sans', sans-serif;
+ margin-left: 20px;
+ margin-right: 20px;
+ margin-top: 10px;
+}
+
+#logo {
+    position: relative;
+    text-align: center;
+}
+
+header{
+    color:#3bb4c1;
+     }
+
+#comandos{
+    background-color: #3bb4c1;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav div{
+    display: inline;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    font-weight: bold;
+    font-size: large;
+}
+
+.navegador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.formula{
+    float:left;
+    margin: 2rem;
+}
+
+.corpo{
+    float:right;
+    margin: 2rem;
+ }
+
+h1{
+    color:#3bb4c1 
+}
+
+h2{
+    color:#3bb4c1
+ }
+
+h3{
+    color: #3bb4c1;
+}
+
+.melhores{
+    float: left;
+}
+
+#button{
+    background-color: #3bb4c1;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+
+footer{
+    text-align: center;
+    font-weight:bold ;
+}
